@@ -1,0 +1,19 @@
+{
+  "name": "willrusso.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:babbins/willrusso.com.git",
+  "author": "Ali Mahmoud <ali.mahmoud@harrys.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
