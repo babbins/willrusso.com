@@ -3,7 +3,10 @@ export default function Index() {
     <div>
       <h1>Will Russo</h1>
       <h3>A friend and a scholar.</h3>
-      <img src="https://ibb.co/C2Y7z8j" />
+      <img
+        width="200"
+        src="https://i.ibb.co/wsPWRgn/Screen-Shot-2020-04-18-at-8-59-44-PM.png"
+      />
       <p>Website coming soon.</p>
     </div>
   );
